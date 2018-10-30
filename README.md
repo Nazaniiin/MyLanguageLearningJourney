@@ -10,6 +10,7 @@ I am currently learning with my current and desired levels.
 ### Main page
 - index.html
 - styles.css
+- variables.css (Comes from compiling variables.scss)
 
 ## Language-specific pages
 - english.html	
