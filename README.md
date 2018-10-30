@@ -1,4 +1,4 @@
-# Project 0
+# Project
 
 Web Programming - Build a webpage
 
@@ -8,18 +8,15 @@ I am currently learning with my current and desired levels.
 ## Inside the repository
 
 ### Main page
-index.html
-styles.css
+- index.html
+- styles.css
 
 ## Language-specific pages
-english.html	
-finnish.html	
-french.html	
-persian.html	
+- english.html	
+- finnish.html	
+- french.html	
+- persian.html	
 
-### Other files
-finland.jpg	
-books.JPG	
 
 
 
