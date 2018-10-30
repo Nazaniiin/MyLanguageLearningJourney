@@ -1,0 +1,51 @@
+#french-embedded-picture, #english-embedded-picture, #finnish-embedded-picture, #persian-embedded-picture {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.language-desc {
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.main-paragraph {
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.about-me {
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.email-envelop {
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.line {
+  margin-right: 150px;
+}
+
+.nesting-sm p {
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.nesting-sm ul {
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*# sourceMappingURL=variables.css.map */

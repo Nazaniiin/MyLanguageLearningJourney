@@ -1,0 +1,73 @@
+$text-margin-right: 150px;
+$test-margin-left: 150px;
+$text-margin-top: 10px;
+$text-margin-bottom: 10px;
+
+%image-spacing {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#persian-embedded-picture {
+    @extend %image-spacing;
+}
+
+#finnish-embedded-picture {
+    @extend %image-spacing;
+}
+
+#english-embedded-picture {
+    @extend %image-spacing;
+}
+
+#french-embedded-picture {
+    @extend %image-spacing;
+}
+
+.language-desc {
+    margin-right: $text-margin-right;
+    margin-left: $test-margin-left;
+    margin-top: $text-margin-top;
+    margin-bottom: $text-margin-bottom;
+}
+
+.main-paragraph {
+    margin-right: $text-margin-right;
+    margin-left: $test-margin-left;
+    margin-top: $text-margin-top;
+    margin-bottom: $text-margin-bottom;
+}
+
+.about-me {
+    margin-right: $text-margin-right;
+    margin-left: $test-margin-left;
+    margin-top: $text-margin-top;
+    margin-bottom: $text-margin-bottom;
+}
+
+.email-envelop {
+    margin-right: $text-margin-right;
+    margin-left: $test-margin-left;
+    margin-top: $text-margin-top;
+    margin-bottom: $text-margin-bottom;
+}
+
+.line {
+    margin-right: $text-margin-right;
+}
+
+.nesting-sm {
+    p {
+        margin-right: $text-margin-right;
+        margin-left: $test-margin-left;
+        margin-top: $text-margin-top;
+        margin-bottom: $text-margin-bottom;
+    }
+
+    ul {
+        margin-right: $text-margin-right;
+        margin-left: $test-margin-left;
+        margin-top: $text-margin-top;
+        margin-bottom: $text-margin-bottom;
+    }
+}
