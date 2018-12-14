@@ -1,6 +1,4 @@
-# Project
-
-Web Programming - Build a webpage using HTML and CSS
+# Web Programming - Build a webpage using HTML and CSS
 
 This project describes my language learning journey. In this website you can read about the languages
 I am currently learning with my current and desired levels.
