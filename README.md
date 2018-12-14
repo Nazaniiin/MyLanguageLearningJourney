@@ -1,9 +1,11 @@
 # Project
 
-Web Programming - Build a webpage
+Web Programming - Build a webpage using HTML and CSS
 
-This project describes my language learning journey. In this website you can find the languages
+This project describes my language learning journey. In this website you can read about the languages
 I am currently learning with my current and desired levels.
+
+![Alt text](https://github.com/Nazaniiin/MyLanguageLearningJourney/blob/master/code_base/resources/main_page.png?raw=true "Title")
 
 ## Inside the repository
 
